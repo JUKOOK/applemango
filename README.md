@@ -46,12 +46,13 @@
   
   ○감정 다이어리 작성 및 공유를 통해 효과적인 치료 도움 ○심리상태 시각화를 통한 객관적 감정 파악 도모
 
-## 2. 포스터
+
+## 2. 프론트 시나리오
+![front](./submit_file/front.png)
+
+
+## 3. 포스터
 ![poster](./submit_file/poster.png)
 
-
-## 3. 프론트
-
-
 ## 4. 시연 영상
-<iframe width="640" height="360" src="https://youtu.be/9bhmhXvmM9A" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Video Label](./submit_file/video_img.png)](https://www.youtube.com/watch?v=9bhmhXvmM9A)
